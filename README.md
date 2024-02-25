@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sumit__rai_" target="blank"><img src="https://img.shields.io/twitter/follow/sumit__rai_?logo=twitter&style=for-the-badge" alt="sumit__rai_" /></a> </p>
 
-- 🔭 I’m currently working on [QR-Based Smart Attendance Manager](https://github.com/raisumit08/QR-based-Attendance-Manager), ([https://github.com/raisumit08/Attendance_app](https://github.com/raisumit08/Attendance_app)
+- 🔭 I’m currently working on [QR-Based Smart Attendance Manager](https://github.com/raisumit08/QR-based-Attendance-Manager), [Android app](https://github.com/raisumit08/Attendance_app)
 
 - 🌱 I’m currently learning **DevOps**
 
